@@ -1,0 +1,14 @@
+c:\Users\lucas.krantz\Desktop\Try-Catch\bin\Debug\net7.0\Try-Catch.exe
+c:\Users\lucas.krantz\Desktop\Try-Catch\bin\Debug\net7.0\Try-Catch.deps.json
+c:\Users\lucas.krantz\Desktop\Try-Catch\bin\Debug\net7.0\Try-Catch.runtimeconfig.json
+c:\Users\lucas.krantz\Desktop\Try-Catch\bin\Debug\net7.0\Try-Catch.dll
+c:\Users\lucas.krantz\Desktop\Try-Catch\bin\Debug\net7.0\Try-Catch.pdb
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\Try-Catch.AssemblyInfoInputs.cache
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\Try-Catch.AssemblyInfo.cs
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\Try-Catch.csproj.CoreCompileInputs.cache
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\Try-Catch.dll
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\refint\Try-Catch.dll
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\Try-Catch.pdb
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\Try-Catch.genruntimeconfig.cache
+c:\Users\lucas.krantz\Desktop\Try-Catch\obj\Debug\net7.0\ref\Try-Catch.dll
